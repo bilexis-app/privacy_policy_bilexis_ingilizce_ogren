@@ -2,6 +2,10 @@
 title: Bilexis - Privacy Policy
 ---
 
+<div style="position: fixed; top: 16px; right: 16px; z-index: 100;">
+  <a href="/tr/" style="text-decoration: none; padding: 6px 14px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; color: #333; background: #fff;">🇹🇷 Türkçe</a>
+</div>
+
 # Privacy Policy
 
 Effective Date: 2026-03-02
